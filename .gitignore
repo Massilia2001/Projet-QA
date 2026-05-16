@@ -1,0 +1,16 @@
+# Fichiers volumineux à ignorer
+*.safetensors
+*.bin
+*.pt
+*.pth
+data/
+*_qa_model/
+*_qa_results/
+*.csv
+results/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+venv/
+env/
